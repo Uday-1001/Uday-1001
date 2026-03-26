@@ -4,10 +4,6 @@
 
 ### DSA | C++ | Learner | Explorer
 
-<br>
-
-<a href="#">DSA</a>   |   <a href="#">Problem Solving</a>   |   <a href="#">CS Fundamentals</a>   |   <a href="#">Explorer</a>
-
 </div>
 
 ---
@@ -51,23 +47,19 @@ and working on projects that help me grow for **placements and internships**.
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/uday-raj-kashyap" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
   </a>
   &nbsp;
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" />
-  </a>
-  &nbsp;
-  <a href="YOUR_GITHUB_URL" target="_blank">
+  <a href="https://github.com/Uday-1001" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="38" />
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/Uday_25468/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" />
   </a>
   &nbsp;
-  <a href="YOUR_CODECHEF_URL" target="_blank">
+  <a href="https://www.codechef.com/users/uday_25468" target="_blank">
     <img src="https://cdn.simpleicons.org/codechef/5B4638" height="38" />
   </a>
 </p>
@@ -180,8 +172,8 @@ and working on projects that help me grow for **placements and internships**.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-1001&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-1001&theme=radical&hide_border=false" height="170" />
 </p>
 
 <br>
@@ -195,7 +187,7 @@ and working on projects that help me grow for **placements and internships**.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-1001&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <br>
