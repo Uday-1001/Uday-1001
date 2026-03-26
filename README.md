@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;DSA+%7C+C%2B%2B+%7C+Problem+Solver;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-1dc1e7a7-c675-4d2e-b8df-1f6cfb8f0e6d.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
