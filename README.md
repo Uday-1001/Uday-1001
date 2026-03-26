@@ -12,13 +12,16 @@
 
 </div>
 
+<div align="center">
+
 ## 🌟 About Me
 
-I'm someone who enjoys solving problems and building useful things while learning along the way.
-Right now, I’m focused on improving my **problem-solving skills**, strengthening my **core CS fundamentals**,
-and working on projects that help me grow for **placements and internships**.
+I enjoy solving problems, understanding how systems work, and turning ideas into practical projects.  
+Currently, I’m focused on improving my **coding skills**, building stronger **computer science fundamentals**,  
+and growing through **consistent learning, development, and hands-on project work**.
 
 </div>
+
 
 <br>
 
@@ -28,45 +31,69 @@ and working on projects that help me grow for **placements and internships**.
 
 <div align="center">
 
-## 🚀 What's Keeping Me Busy
+<div align="center">
 
-💻 Building my coding strength with **Data Structures & Algorithms in C++**
-📚 Learning **Operating Systems, Memory Management, Scheduling, Threads, and File Systems**
-🌱 Working on a **Soil Stress Prediction System** using **Machine Learning**
-🌐 Exploring **Web Development** and learning how frontend and backend work together
-🎯 Preparing consistently for **placements** through coding, projects, and CS fundamentals
-
-</div>
+## 🚀 What I'm Into
 
 <br>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 DSA & Problem Solving  
+I enjoy breaking down problems and figuring out efficient ways to solve them using **C++ and structured thinking**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ How Systems Work  
+Curious about what happens behind the scenes — exploring **Operating Systems, memory, threads, and system behavior**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Building ML-Based Ideas  
+Interested in applying concepts through projects like **Soil Stress Prediction**, combining data with real-world use cases.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Exploring Development  
+Learning how modern applications are built by understanding the flow between **frontend and backend systems**.
+
+</td>
+</tr>
+</table>
+
+</div>---
 
 <br>
 
 ## 🌐 Socials:
 
-<p align="center">
-  <a href="www.linkedin.com/in/uday-raj-kashyap" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Uday-1001" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Uday_25468/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/uday_25468" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="38" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-raj-kashyap)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uday-1001)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Uday_25468/)
+&nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/uday_25468)
+
+</div>
 
 <br>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <br>
 
@@ -114,50 +141,54 @@ and working on projects that help me grow for **placements and internships**.
 
 <div align="center">
 
+<div align="center">
+
+## 🧩 LeetCode Stats
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Uday_25468?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
 ## 📂 Featured Work
 
 </div>
 
 <br>
 
-### 🌱 Soil Stress Prediction System
-
-* Built a **Machine Learning-based project** to predict soil stress
-* Uses parameters like:
-
-  * Temperature
-  * Humidity
-  * Soil Temperature
-* Designed with a frontend interface to display prediction results
-* Extendable to support **external sensor-based inputs**
+> ### 🌍 TripMate  
+> A travel planning web application designed to make trip organization smoother, cleaner, and more user-friendly.  
+>
+> 🔹 Plan and manage itineraries  
+> 🔹 Built with focus on user experience  
+> 🔹 Covers practical application flow  
 
 <br>
 
-### 💻 DSA & Problem Solving Journey
-
-* Regularly solving coding problems in **C++**
-* Focused on improving concepts like:
-
-  * Trees
-  * Graphs
-  * BFS / DFS
-  * Shortest Path
-  * Dynamic Programming
-  * Binary Trees / BST
+> ### 🌱 Phyto-Sense *(Soil Stress Prediction System)*  
+> A Machine Learning-based project that predicts **soil stress** using environmental parameters and practical agricultural data.  
+>
+> 🔹 Uses temperature, humidity, and soil temperature  
+> 🔹 Integrated with a frontend interface  
+> 🔹 Extendable for sensor-based inputs  
 
 <br>
 
-### 🧠 Core CS Learning
-
-* Practicing and understanding topics like:
-
-  * Memory Management
-  * File Systems
-  * Disk Scheduling
-  * Threads
-  * CPU Scheduling
-
-<br>
+> ### 🤖 ML Models  
+> A collection of machine learning mini-projects built to explore prediction and classification using real datasets.  
+>
+> 🔹 **House Value Predictor** for regression-based prediction  
+> 🔹 **MNIST Digit Classifier** for handwritten digit recognition  
+> 🔹 Focused on practical implementation of ML concepts  
 
 ---
 
@@ -198,16 +229,53 @@ and working on projects that help me grow for **placements and internships**.
 
 <div align="center">
 
-## 🎯 Current Focus
+<div align="center">
 
-🚀 Becoming better at **problem solving**
-📚 Strengthening **CS fundamentals**
-💻 Building better **projects**
-🎯 Staying consistent for **placements**
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+## 🎯 Current Focus
 
 </div>
 
 <br>
+
+<div align="left">
+
+> ### 🚀 Problem Solving  
+> Improving the way I approach coding by solving problems consistently and building stronger **logic, intuition, and confidence**.
+
+</div>
+
+<br>
+
+<div align="left">
+
+> ### 📚 Core CS Mastery  
+> Deepening my understanding of **Operating Systems, DBMS, OOPs, and system-level concepts** to strengthen both learning and interviews.
+
+</div>
+
+<br>
+
+<div align="left">
+
+> ### 💻 Better Projects  
+> Creating projects that are not just functional, but also **cleaner, smarter, and more meaningful** in execution.
+
+</div>
+
+<br>
+
+<div align="left">
+
+> ### 🎯 Placement Journey  
+> Working steadily toward **placements and internships** with a focus on consistency, learning, and practical growth.
+
+</div>
 
 ---
 
@@ -215,6 +283,6 @@ and working on projects that help me grow for **placements and internships**.
 
 <div align="center">
 
-### ⭐ Keep learning. Keep building. Keep improving.
+### ⭐ "Consistency, curiosity, and code — building my way forward one step at a time."
 
 </div>
