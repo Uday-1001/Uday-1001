@@ -141,9 +141,7 @@ Learning how modern applications are built by understanding the flow between **f
 
 <div align="center">
 
-<div align="center">
-
-## 🧩 LeetCode Stats
+## 🏆 Competitive Programming Stats
 
 </div>
 
@@ -153,11 +151,29 @@ Learning how modern applications are built by understanding the flow between **f
   <img src="https://leetcard.jacoblin.cool/Uday_25468?theme=dark&font=Baloo&ext=contest" />
 </p>
 
-<div align="center">
+<br>
 
 <div align="center">
 
-<div align="center">
+### 🍽️ CodeChef
+
+<img src="https://img.shields.io/badge/Username-uday__25468-2E2E2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Rating-1468-8B5E3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stars-2★-F4B400?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://www.codechef.com/users/uday_25468" target="_blank">
+  <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 📂 Featured Work
 
