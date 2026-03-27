@@ -187,7 +187,7 @@ Learning how modern applications are built by understanding the flow between **f
 > A collection of machine learning mini-projects built to explore prediction and classification using real datasets.  
 >
 > 🔹 **House Value Predictor** for regression-based prediction  
-> 🔹 **MNIST Digit Classifier** for handwritten digit recognition  
+> 🔹 **Cancer Prediction** for cancer related queries in healthcare 
 > 🔹 Focused on practical implementation of ML concepts  
 
 ---
