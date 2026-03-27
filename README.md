@@ -33,7 +33,7 @@ and growing through **consistent learning, development, and hands-on project wor
 
 <div align="center">
 
-## 🚀 What I'm Into
+## 🚀 What I'm Into...
 
 <br>
 
