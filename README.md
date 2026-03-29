@@ -4,30 +4,19 @@
 
 <br>
 
-
-
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;DSA+%7C+C%2B%2B+%7C+Problem+Solver;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solver-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CS-Core%20Concepts-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Real%20Projects-1d4ed8?style=for-the-badge" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
-<div align="center">
-
-## 🌟 About Me
-
-I enjoy solving problems, understanding how systems work, and turning ideas into practical projects.  
-Currently, I’m focused on improving my **coding skills**, building stronger **computer science fundamentals**,  
-and growing through **consistent learning, development, and hands-on project work**.
-
-</div>
-
 
 <br>
 
@@ -36,6 +25,25 @@ and growing through **consistent learning, development, and hands-on project wor
 <br>
 
 <div align="center">
+
+<h2>🌟 About Me</h2>
+
+<h3>
+I enjoy solving problems, understanding how systems work, and turning ideas into practical projects.
+</h3>
+
+<h3>
+Currently, I’m focused on improving my <b>coding skills</b>, building stronger <b>computer science fundamentals</b>,
+and growing through <b>consistent learning, development, and hands-on project work</b>.
+</h3>
+
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
@@ -77,13 +85,19 @@ Learning how modern applications are built by understanding the flow between **f
 </tr>
 </table>
 
-</div>---
+</div>
+
+<br>
+
+---
 
 <br>
 
 ## 🌐 Socials:
 
 <div align="center">
+<br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-raj-kashyap)
 &nbsp;&nbsp;
@@ -97,11 +111,7 @@ Learning how modern applications are built by understanding the flow between **f
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
-<br>
 
 <div align="center">
 
@@ -177,15 +187,36 @@ Learning how modern applications are built by understanding the flow between **f
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+<div align="center">
 
-## 📂 Featured Work
+## 🏅 GitHub Highlights
+
+<br>
+
+<a href="https://github.com/Uday-1001">
+  <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Work-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Code%20%26%20Build-Consistent%20Growth-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Core%20Focus-DSA%20%7C%20Systems%20%7C%20Dev-1d4ed8?style=for-the-badge" />
 
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<br>
+
+## 📂 Featured Work
+
+<br>
+
+<div align="left">
 
 > ### 🌍 TripMate  
 > A travel planning web application designed to make trip organization smoother, cleaner, and more user-friendly.  
@@ -209,8 +240,12 @@ Learning how modern applications are built by understanding the flow between **f
 > A collection of machine learning mini-projects built to explore prediction and classification using real datasets.  
 >
 > 🔹 **House Value Predictor** for regression-based prediction  
-> 🔹 **Cancer Prediction** for cancer related queries in healthcare 
+> 🔹 **Cancer Prediction** for cancer related queries in healthcare  
 > 🔹 Focused on practical implementation of ML concepts  
+
+</div>
+
+<br>
 
 ---
 
@@ -245,17 +280,19 @@ Learning how modern applications are built by understanding the flow between **f
 
 <br>
 
----
+<div align="center">
+
+## 📉 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-1001&theme=react-dark&hide_border=false&area=true" width="95%" />
+
+</div>
 
 <br>
 
-<div align="center">
+---
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
+<br>
 
 <div align="center">
 
@@ -298,6 +335,8 @@ Learning how modern applications are built by understanding the flow between **f
 > Working steadily toward **placements and internships** with a focus on consistency, learning, and practical growth.
 
 </div>
+
+<br>
 
 ---
 
