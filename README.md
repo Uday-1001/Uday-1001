@@ -193,7 +193,7 @@ Learning how modern applications are built by understanding the flow between **f
 
 <br>
 
-<a href="https://github.com/Uday-1001">
+<a href="https://github.com/Uday-1001?tab=repositories">
   <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Work-2563eb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
