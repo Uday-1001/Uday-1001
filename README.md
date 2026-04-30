@@ -218,30 +218,35 @@ Learning how modern applications are built by understanding the flow between **f
 
 <div align="left">
 
-> ### 🌍 TripMate  
-> A travel planning web application designed to make trip organization smoother, cleaner, and more user-friendly.  
->
-> 🔹 Plan and manage itineraries  
-> 🔹 Built with focus on user experience  
-> 🔹 Covers practical application flow  
+### 🎓 Lecture Lens
+
+> A smart academic companion web application designed to simplify lecture tracking and enhance learning efficiency.
+
+> 🔹 Organize and revisit lecture materials easily  
+> 🔹 Extract and summarize key concepts from content  
+> 🔹 Built with focus on productivity and clarity  
+> 🔹 Streamlines study workflow for better retention 
 
 <br>
 
-> ### 🌱 Phyto-Sense *(Soil Stress Prediction System)*  
+### 🌱 Phyto-Sense (Soil Stress Prediction System)  
+
 > A Machine Learning-based project that predicts **soil stress** using environmental parameters and practical agricultural data.  
->
+
 > 🔹 Uses temperature, humidity, and soil temperature  
 > 🔹 Integrated with a frontend interface  
 > 🔹 Extendable for sensor-based inputs  
 
 <br>
 
-> ### 🤖 ML Models  
-> A collection of machine learning mini-projects built to explore prediction and classification using real datasets.  
->
-> 🔹 **House Value Predictor** for regression-based prediction  
-> 🔹 **Cancer Prediction** for cancer related queries in healthcare  
-> 🔹 Focused on practical implementation of ML concepts  
+### ⚖️ Nyaya Setu (In Progress)
+
+>A legal assistance web application designed to simplify access to justice and streamline case-related information.
+
+> 🔹 Provides easy access to legal resources and guidance  
+> 🔹 Helps users understand case procedures and documentation  
+> 🔹 Built with focus on accessibility and user awareness  
+> 🔹 Bridges the gap between citizens and legal support systems  
 
 </div>
 
