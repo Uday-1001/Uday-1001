@@ -128,16 +128,24 @@ Learning how modern applications are built by understanding the flow between **f
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GREEN%20SOCK-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODEMON-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWINDCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A3EFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -218,6 +226,17 @@ Learning how modern applications are built by understanding the flow between **f
 
 <div align="left">
 
+### 🤖 AI Multimedia Assistant (RAG)
+
+> A Retrieval-Augmented Generation (RAG) powered AI assistant that enables intelligent question answering and content retrieval from multimedia documents.
+
+> 🔹 Chat with PDFs using context-aware AI responses
+> 🔹 Supports both text-based and scanned/image PDFs through OCR
+> 🔹 Retrieves relevant document chunks for accurate, citation-grounded answers
+> 🔹 Built with LangChain, Google Gemini, FastAPI, and Streamlit for a fast, interactive experience
+
+<br>
+
 ### 🎓 Lecture Lens
 
 > A smart academic companion web application designed to simplify lecture tracking and enhance learning efficiency.
@@ -236,17 +255,6 @@ Learning how modern applications are built by understanding the flow between **f
 > 🔹 Uses temperature, humidity, and soil temperature  
 > 🔹 Integrated with a frontend interface  
 > 🔹 Extendable for sensor-based inputs  
-
-<br>
-
-### ⚖️ Nyaya Setu (In Progress)
-
->A legal assistance web application designed to simplify access to justice and streamline case-related information.
-
-> 🔹 Provides easy access to legal resources and guidance  
-> 🔹 Helps users understand case procedures and documentation  
-> 🔹 Built with focus on accessibility and user awareness  
-> 🔹 Bridges the gap between citizens and legal support systems  
 
 </div>
 
