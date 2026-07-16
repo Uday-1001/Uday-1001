@@ -130,6 +130,8 @@ Learning how modern applications are built by understanding the flow between **f
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
@@ -148,6 +150,7 @@ Learning how modern applications are built by understanding the flow between **f
   <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
