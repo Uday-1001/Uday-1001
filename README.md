@@ -233,9 +233,9 @@ Learning how modern applications are built by understanding the flow between **f
 
 > A Retrieval-Augmented Generation (RAG) powered AI assistant that enables intelligent question answering and content retrieval from multimedia documents.
 
-> 🔹 Chat with PDFs using context-aware AI responses
-> 🔹 Supports both text-based and scanned/image PDFs through OCR
-> 🔹 Retrieves relevant document chunks for accurate, citation-grounded answers
+> 🔹 Chat with PDFs using context-aware AI responses  
+> 🔹 Supports both text-based and scanned/image PDFs through OCR  
+> 🔹 Retrieves relevant document chunks for accurate, citation-grounded answers  
 > 🔹 Built with LangChain, Google Gemini, FastAPI, and Streamlit for a fast, interactive experience
 
 <br>
@@ -279,14 +279,6 @@ Learning how modern applications are built by understanding the flow between **f
   <img src="https://github-readme-stats.vercel.app/api?username=Uday-1001&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-1001&theme=radical&hide_border=false" height="170" />
 </p>
-
-<br>
-
-<div align="center">
-
-## 📈 Most Used Languages
-
-</div>
 
 <br>
 
